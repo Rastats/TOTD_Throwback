@@ -921,8 +921,7 @@
 #921 | 07/01/2023 | verses of poetry | 4ee3fe08-737d-4c8c-9341-d2d334683682 | CAw3kvJNDIsVI3Hp0us4_bxP_ri | Bladerunner78 | 6d2431c9-ece9-431b-9edb-35ae554b859e | 58.740 | 1:03.000
 #922 | 08/01/2023 | Violacei Lapides ft alexS | c0a6cbce-3488-4554-ac29-ace966f2335f | fPFRM776LkYYreosr9SXbHT4cxa | green-K- | 724ef555-5f77-4f68-a5b2-c96a31cac976 | 46.688 | 47.170
 #923 | 09/01/2023 | NEO-CUPRA - REAL FAKE GRASS | e7f8d534-9816-46a6-ba69-1376fd1dc6dd | ztzk73ADUyxmoe3RBKcZXKvcoR7 | florenzius_ | 73eba009-a074-4439-916f-d25d7fa7bc1c | 49.910 | 53.000
-#924 | 10/01/2023 | 'ACROBATECH!
- | c2ef911b-a39f-4fa2-9f10-59d3dc49ab0e | GDPdoWoK7p3QHy1skI9r8rYfpvi | D5VID_CR | 23bc4ff4-01e9-42ab-b685-8d06ca139855 | 41.103 | 44.000
+#924 | 10/01/2023 | 'ACROBATECH! | c2ef911b-a39f-4fa2-9f10-59d3dc49ab0e | GDPdoWoK7p3QHy1skI9r8rYfpvi | D5VID_CR | 23bc4ff4-01e9-42ab-b685-8d06ca139855 | 41.103 | 44.000
 #925 | 11/01/2023 | Night Air | 5f6518df-1ffe-477c-ba8c-bcb3184f00fd | PQQVgEAmoSNqdOZfjSvlG9971Nf | Sqweegel | 02ffe7da-3eaa-4ffe-a2de-155bc8638af9 | 53.007 | 57.000
 #926 | 12/01/2023 | Genial Gardens | 32b29a80-2e3b-4b02-90c1-5151af6ad3c1 | IZ2ZySz8fV1w6PQbc1P9AXTC1da | rw.pain | 433b5c82-6fb4-4dc2-b686-5a9534189021 | 45.130 | 48.000
 #927 | 13/01/2023 | Flare ft Giilo | 5fc6e19f-e9f9-454f-9a4d-d0667d3d75a1 | SiUXiuGmnGCdTAP7Zmqr_3nUhO0 | Sp4ck0 | f6ee9c18-bdb5-4819-86e8-c6e4ce561a1f | 42.777 | 46.000
@@ -1825,36 +1824,37 @@
 #1824 | 28/06/2025 |  Mørke | 152e600a-8880-456d-958b-ec38d43da2b9 | zhezWHpaAJQRebze25SGsoiopo9 | SiriusTtm | 441bc61f-cd7d-4c1b-b345-8701ec2ded93 | 46.754 | 50.000
 #1825 | 29/06/2025 | Startpoint | efcdeba7-6a7c-4ae0-9ba1-578d7c32860d | xLL5Xt4gHEa1LNrCBEbIfmfRAha | artroy666 | 46dcc889-73cb-4df5-8b44-d5a5e6addfec | 45.984 | 49.000
 #1826 | 30/06/2025 | Pizza Delivery Guy | e0396f0f-a5c1-4199-a2ba-a18033043a60 | m1EyV_FhJt1kwnbqC2UhwjvGs8g | LennoTM | a1f54607-ca67-4030-bf43-da2779b024b2 | 43.722 | 47.000
-#1797 | 01/06/2025 | Watch out for that tree! | 5ed1e909-b845-4ea8-936e-b9e8b4b28b27 | 3zrCRSoPwDsfOl2UabQGqLxl5Uj | glocom | 8ecce824-8ada-4fbf-9af1-64b2d8dd42a4 | 41.012 | 44.000
-#1798 | 02/06/2025 | Horizons 2025 - 19 | aa0d9c08-2856-4e6e-8154-c5fb4c511b8d | mYxmnx9omft6dsB1lofwbBvw4Wk | Prancer.TX | 69e8d73c-cb88-4496-a17e-aeb069b4e0e5 | 44.270 | 47.000
-#1799 | 03/06/2025 | MUSPELHEIM | bd7f66c9-039d-4a02-972d-011cbb000526 | m_LGyIScSmbhvBz2vwz4MvbEGO | Ealipse | 041623e9-57de-4dea-8fd2-6adf967ba558 | 47.925 | 51.000
-#1800 | 04/06/2025 | REBOOT NATURE ft Svendsenz | 7c972628-994d-4b98-baeb-c3f0b250362c | 7Dpc8ayEqa7tkMPQRxIvBBymY75 | Taco.TM | 77e81508-8431-42a3-941a-d77a809675c7 | 44.398 | 48.000
-#1801 | 05/06/2025 | Hattara | 8b8c0fd4-2dfd-4bdc-b3b8-56d3a9285d79 | cOgO3NO54PiSKL2QZT2EdOYOWUc | leohi93 | 3b417a4c-c190-4951-90f4-6454e4475740 | 50.901 | 54.000
-#1802 | 06/06/2025 | EepingWithACarrot ft' ThijnHD | eacb44dd-c9b3-48af-8e13-4f50c2d1cba4 | bC_C7FpHlhAtrhjA6x0jBE1Tk52 | laurids. | 5caf0042-0e73-4766-bbcc-a1c16cb4afd7 | 44.667 | 48.000
-#1803 | 07/06/2025 | Quebance | 9644ab61-0bb4-480b-8549-6156003bde8c | vY44wJTEBJO2Odkf8UYIAamo4Ua | zoldik.hqd | f4fe9668-8937-4faf-a565-cfbcbdc15b42 | 42.318 | 45.000
-#1804 | 08/06/2025 | Voyage | 0bfb3f3e-aa72-401b-a392-a2e3d84ec60c | 0rhJC2SYeMUNx4BzH_Z_CVMHgG0 | schwuppdiwupp. | 0d18d662-3355-4f22-a4f0-9af6e73218aa | 52.643 | 57.000
-#1805 | 09/06/2025 | Gozumi ft' Xefas & JakeRay | b874dc19-13fc-43c5-b535-a57d0e96f727 | CsJxCCh7Lgdwc3PvxDwrqjQVztk | Yamii._. | 7dbb1f78-0360-472f-ab09-8037c89e505e | 57.395 | 1:01.000
-#1806 | 10/06/2025 | τorrєғacтιѳи | b9e609bc-6c36-4ec9-b0e9-88a3576da1db | fPLAcs1B4lvQcUhxme271GvhAXb | Gixxity | 9156bc81-4da0-4d7e-a616-3bbb5434fb10 | 43.992 | 47.000
-#1807 | 11/06/2025 | Azure Cascade | d1cab08e-434e-41f0-a7fd-3b607276ede0 | PUl0YsB8Xfmq4Royrkm7BwMb3ue | artroy666 | 46dcc889-73cb-4df5-8b44-d5a5e6addfec | 42.851 | 46.000
-#1808 | 12/06/2025 | cold nights | 55f76d5b-b77e-4862-9164-6eb6da439237 | ovqUud828Tm6RMsq8ddcLzjRHT8 | zerbrezler2000 | aaae15ed-ab4d-4292-ab70-48b0b3d75517 | 46.808 | 50.000
-#1809 | 13/06/2025 |  Chiaotzu ft Hugs | 192e3882-fe06-48b1-8942-6791b5287afc | ZTotJ9Szu7mjvrFKApvdamRGLx7 | rw.pain | 433b5c82-6fb4-4dc2-b686-5a9534189021 | 44.018 | 47.000
-#1810 | 14/06/2025 | Highland Swamp ft SiriusTtm | e5b89a3d-81de-4834-a9f2-3c3f0430ea4c | uxD7FP5MM3lX3cDBGT9G7tlbkva | AmongUs777 | 5b05dd24-075d-4b5d-ad23-5122b0c806db | 44.714 | 48.000
-#1811 | 15/06/2025 | VCC Showacse 14 -  Airborne | 1f09815a-2b31-459e-998b-22060f29ddaa | pHQJRFfZXgjM6NHJ_QAe4O5YUn0 | VanillaMapping | 46178b0a-1589-40ed-a06c-16c0e1673396 | 50.000 | 55.000
-#1812 | 16/06/2025 | Always | 60fad874-f811-4c82-8241-01432cf49465 | 4zXN3yNYq48EqUpWXHJF5R0vaI9 | iesauka | ca9b0f0a-fb65-4e0b-8ebe-d29a211ea550 | 43.032 | 46.000
-#1813 | 17/06/2025 | Zyklop beim Augearzt | 79755f04-c586-42d2-adee-28e243106332 | AUoFqM0GiEqC3uRj4iijweoaJ7k | Huebsch_AF | 75da49be-c3d1-496c-a9c3-8d76e40dc95a | 39.068 | 42.000
-#1814 | 18/06/2025 | Islet | 1b07deae-e890-4dc6-a651-199de450a7d3 | mpVxPVwTunPQ2ApRpotbGn8wOMj | Kcedus.4PF | 34fdec71-7121-418a-918b-cb24257f2a68 | 46.015 | 49.000
-#1815 | 19/06/2025 | Arunvale ft' iFendar | f465df95-9e4f-4a4e-b497-15c47c8d46de | DHm5OC9UDzNpxo7q0__O7_zj08a | Arien.wp | 43276c27-5cbe-48e6-a3a3-0b1550c80992 | 45.989 | 49.000
-#1816 | 20/06/2025 | Elysian Days | 91782103-3053-4566-8fea-97ca41cb8e11 | CtIk5FDQr8QheTO6j1ITb2Vbf79 | Egeau | 931e9842-5193-4f39-aab6-abc593b39fcf | 44.588 | 48.000
-#1817 | 21/06/2025 | Shadonyx | 8ea9c9f5-5da2-4264-9fb5-c624c9b06f64 | v3F2qihEgySNAuzPlPGsPpxa6Yd | Vilamar234 | 60423a46-d97a-4929-8379-81d8919cfe47 | 46.725 | 50.000
-#1818 | 22/06/2025 | Running Raceway | 6be31985-19ef-40a3-84c6-625725a066f9 | FvNtNq7LKA0OCFgbRD8BRYlf205 | TheNobsal | d516a357-db8a-4680-806e-b52564966a25 | 52.798 | 56.000
-#1819 | 23/06/2025 | Windborne Sons | 60fd366e-fc0b-43b3-9bcf-2709568b3a13 | 3oDUFmfpEEVb3rES_oZKsKwU1_5 | Ryuuganji | eafc2ccc-f7df-4e5b-a0eb-3ad39d288fcd | 41.564 | 45.000
-#1820 | 24/06/2025 | Isle of Peace | 9411e171-42cc-43ba-abfb-de1ca92cfdcf | AYiX0JCvaCuBiPTNgJQxrcneuZi | Map88. | bb50cb56-b104-4314-a7bd-49ab725fd2d9 | 45.765 | 49.000
-#1821 | 25/06/2025 | Volcanic Temple | 79a577c5-7bdd-4f7e-81c6-1f07016edc00 | 0VMY9l4ftCAv8JX3TaxrxHVyoOb | Aries__90 | babd5821-8cad-4ccd-9a80-218d0e3afd50 | 56.245 | 1:01.000
-#1822 | 26/06/2025 | Twilight Array | 765f9d5b-2130-43d6-902e-0a8ac0457423 | pjhPznftHJ7x3AR2dIubGO6ajB2 | Arien.wp | 43276c27-5cbe-48e6-a3a3-0b1550c80992 | 43.197 | 46.000
-#1823 | 27/06/2025 | TFH - Emberfract | 44476d5e-abf4-4a3d-8c43-ba0b213d53b7 | i9LW7dqpzvg4G7gFNLtA7q_TiHe | Firestorrm_tm | 679c132e-637f-4960-99d3-026345bbd947 | 1:06.192 | 1:11.000
-#1824 | 28/06/2025 |  Mørke | 152e600a-8880-456d-958b-ec38d43da2b9 | zhezWHpaAJQRebze25SGsoiopo9 | SiriusTtm | 441bc61f-cd7d-4c1b-b345-8701ec2ded93 | 46.754 | 50.000
-#1825 | 29/06/2025 | Startpoint | efcdeba7-6a7c-4ae0-9ba1-578d7c32860d | xLL5Xt4gHEa1LNrCBEbIfmfRAha | artroy666 | 46dcc889-73cb-4df5-8b44-d5a5e6addfec | 45.984 | 49.000
-#1826 | 30/06/2025 | Pizza Delivery Guy | e0396f0f-a5c1-4199-a2ba-a18033043a60 | m1EyV_FhJt1kwnbqC2UhwjvGs8g | LennoTM | a1f54607-ca67-4030-bf43-da2779b024b2 | 43.722 | 47.000
+#1827 | 01/07/2025 | Forever United | d452e4f7-e20e-4c6f-8ebc-7652d95426e4 | _VhbhAwI8AL_Xycc_9luCmG9f4j | Intax | 3d71524d-922d-4755-9f9a-86bd93cedbf9 | 1:30.382 | 1:38.000
+#1828 | 02/07/2025 | flourish ft' glory | 0d7d8b73-c84d-4d61-8b9d-5ebbef1c1890 | 5tAQEvXhSfMWKLg6x7IIC4V74Ag | xPPHx | 8734f99c-fc4e-43e0-83d5-65291d8a0878 | 48.573 | 52.000
+#1829 | 03/07/2025 | Aurora Digitalis | e08ffa5d-447a-4740-a7a7-eed94ae0ffd0 | pbkpxxdhgyJ_j4HTIMw8mw3y873 | HappySadTTV | 35557121-359a-4859-864f-98fa1ced13d6 | 44.481 | 49.000
+#1830 | 04/07/2025 | DeepSlip | Floor 0 - Cup Edition | 2d947cea-4303-4eda-a9a5-fc205117bc01 | j4ZlIAZGa6jE4ns_TkB0PrLwl57 | BURLYpog | c4d583af-15c4-4f6f-8188-a2b6aa0c5e09 | 41.463 | 44.000
+#1831 | 05/07/2025 | I think I overcooked the chicken | 115b5348-6567-4c00-83c2-a20c32bb9990 | ZZdIAqAeupuRrOM084mSjAWO8Fb | mcFLy_ZA | ac424f5e-5612-4a44-8b87-6403be2b690f | 43.908 | 47.000
+#1832 | 06/07/2025 | wowie [ce] ft' Pac042 | 2f0849c0-112f-4418-98b3-7f810dc7ad52 | aZNsRC1seuH1eKbkdJwK1N_Az_d | koomah- | aedb0d10-dea8-4ecc-83a3-819aaedff886 | 42.182 | 45.000
+#1833 | 07/07/2025 | P1NO R1V13RA | 4bf9232b-3427-4434-a60d-72fb1cf1ffef | WnCF1F_3bfPmnfu7uvPtrCyzhCm | votisx | c2aaa990-1091-47d5-8aff-870bbb760ea7 | 50.038 | 53.960
+#1834 | 08/07/2025 | matte ft glory | 701aa082-a306-43f3-811a-a32417392fe4 | ScdV_5Jq8Hosm4C3PchMpUv45e0 | Thounej | 0011d4b9-a323-474d-9fe2-92cb38b9fd05 | 44.827 | 48.000
+#1835 | 09/07/2025 | NOZOMIのぞみ | 910fa416-d778-455b-af17-ec59721f0a98 | 8zUZSUKPiVuIxnu1HcLGIc1KsMe | mango_._. | 23321d29-49c8-4bca-84fb-3c90c7d3dca1 | 38.508 | 41.000
+#1836 | 10/07/2025 | dummy | 45af6bb0-489b-459e-aabc-41908249ca13 | O_tnu9RI0BBQpD94KPFbgvvcuH3 | zerbrezler2000 | aaae15ed-ab4d-4292-ab70-48b0b3d75517 | 47.270 | 51.000
+#1837 | 11/07/2025 | Sandy Summer | bb6f10fa-b10f-4c2f-87b2-569f03c3c050 | JPZXHUNqhlXgR4Ib_1IfRpaho6k | Potaa_ | 122711f4-cc0f-494f-916a-c267e91f5b31 | 39.554 | 42.000
+#1838 | 12/07/2025 | KABICHI | 186831f8-5778-46e3-90e9-1e781a7d79ca | 4Um4Zjg2TPXV85uGNBDQAPzwNZ9 | colaski. | 6c36a836-7c69-4e84-b192-f2e2c5772db0 | 48.075 | 51.000
+#1839 | 13/07/2025 | Piece of Oblivion ft Quinn22b1 | 414a20a2-3892-4f58-9f29-1a890412100e | oB79Z2ngeFzC1rXxLadZDEBevDh | artroy666 | 46dcc889-73cb-4df5-8b44-d5a5e6addfec | 44.124 | 47.000
+#1840 | 14/07/2025 | Dolore ft' AtomeTM | 3bfb471f-c908-425e-9b80-c82478b677fc | IHdzBWNkxMWv69vT9Bndlh6lzRg | Slidelock | 32269ea2-cfed-4fc9-b69a-161833d3f652 | 41.654 | 45.000
+#1841 | 15/07/2025 | Act of Defiance | 56d75e3c-348f-4519-9780-75a734948c91 | lB5RbOIcS17IF4bRMLuJjKAjwe5 | Pac042 | abea35a1-34d9-42e0-8b45-572d20b8f2d7 | 41.486 | 44.000
+#1842 | 16/07/2025 | SnowEra | 98cb6bb5-f7fa-4b1b-8342-5aa85609747f | vm4rgndSGMJnOPSQZTcg4rMElad | BastoTM | 64d96282-6169-4317-b0a6-e6256b381060 | 46.997 | 50.000
+#1843 | 17/07/2025 | Yearning for Simpler Times | 0f8253a8-56c7-4352-a5dc-072e2b8af778 | zCPQxGZ37tMUoatwkTHV683zkim | iGaffy | af03d9d3-9693-41cb-9270-da7d34c48bb6 | 39.315 | 42.000
+#1844 | 18/07/2025 | Frozen Blossom ft Tway | 9f5d5428-c096-4919-9954-2312f1e3310e | 3CpxgAP8EV2OD0CK8tfjPuSTfi9 | xJKlyS-. | f61cfc67-350f-4ec3-9c54-8959e80c2372 | 44.293 | 47.000
+#1845 | 19/07/2025 | Never Odd or Even ft Pepsy | 29d81a71-9a3a-4024-bd11-8d6f3c614267 | tKYSogfyw4ISeAd0RGX7WHFA5ce | lars_shorty | 95454332-93e6-4099-a477-609ff3bc78a0 | 40.502 | 43.000
+#1846 | 20/07/2025 | Never Odd or Even ft Pepsy | b5eda9e3-e02e-490c-8db4-04422f35569e | tZU6IZ4GnNKWDyuDBMWT2m06yac | lars_shorty | 95454332-93e6-4099-a477-609ff3bc78a0 | 39.087 | 42.000
+#1847 | 21/07/2025 | The Voices  Are Getting Louder | d3c2195a-dcdb-4e10-a0a6-9680113531c3 | zOlkUQGtiznHGBWAFH2d_t03me4 | laurids. | 5caf0042-0e73-4766-bbcc-a1c16cb4afd7 | 44.370 | 48.000
+#1848 | 22/07/2025 | ক ft' cotton | dbc6dd78-cd55-4756-85a0-97848ecfd25e | e8odsqFXZFjj3gh0fRyykTrDGIe | cw.KEY | 38d2bfdc-30af-4b24-80c7-24d34daf121d | 42.667 | 45.000
+#1849 | 23/07/2025 | Prohibit ft' speq | 71a14fcc-d944-443e-a349-c8ed798aab85 | L3TmJZGemdv8zfIRbhad5xEKhIk | Thounej | 0011d4b9-a323-474d-9fe2-92cb38b9fd05 | 51.762 | 55.000
+#1850 | 24/07/2025 | HiLoS | a78f0de2-d99c-434d-b8d9-2b62524c9907 | 3Gam10bRv6Fq0WCaHLvDHaBb5ok | SkipTM | af37aca4-5f76-4d69-95fb-6ce196dbf0d6 | 46.321 | 50.000
+#1851 | 25/07/2025 | Arrakko | d4491f05-da96-4a9a-ad9e-f8a69f4ee81d | qhiGm06nUCartUVkCQYomoWiHn2 | Denality | ff6285e5-f367-44ea-9a79-221779d1ec2f | 1:01.973 | 1:04.000
+#1852 | 26/07/2025 | Flow State | 7a5c84aa-7b4c-41d3-95f4-116e404ec457 | tZsB67BtDJ4Y1pZDT_uoT3Qv5sj | djabski | 98befaea-5a4f-409c-b04e-297dc1e1e0e4 | 47.492 | 51.000
+#1853 | 27/07/2025 | HYDROCORE - KELVAR ft' PROFF10 | 53c57e17-c3e6-410a-8b87-f85c42bd890e | u1fdMjw8zchIXDze4pE5OSN1Gl7 | Sqweegel | 02ffe7da-3eaa-4ffe-a2de-155bc8638af9 | 47.598 | 51.000
+#1854 | 28/07/2025 | Isle of Nascar | 619ba79a-8962-42f1-a57c-5b8b5eba9728 | a2tbL9hCVEITKFplL01miPsNDme | TT-Basti | 043d9f0f-3a04-4910-bfb8-36ef33435826 | 45.454 | 49.000
+#1855 | 29/07/2025 | Purpose | e630d699-d765-4a16-a341-e556b414efd8 | 2jAhYPmpHh7nf_wm4czj8hTuTWc | Madoe.exe | 622fc741-8853-4ab5-b637-738544a0accb | 36.753 | 39.000
+#1856 | 30/07/2025 | Red Rush Raceway | 7088648f-0f4b-4982-9388-729ede6be805 | Ed3HKp4XaVrgL2BU3dwDFrqICsh | JoshTalksToFish | c68d831c-16b2-4134-91d4-bdace1291a79 | 52.644 | 56.000
+#1857 | 31/07/2025 | Hailfract Rift | f7931d8c-c3fb-4b51-9d74-6e3d91057ad6 | 6LTEUC5RFyhbTcmWpMVX4FNVcq2 | Map88. | bb50cb56-b104-4314-a7bd-49ab725fd2d9 | 47.287 | 51.000
 #1858 | 01/08/2025 | A Crumpled Up Piece of Paper | 0bd128bc-f7e8-4f2b-be2f-27336ffd8a95 | JjPRjxV581giDLISK77aZVfT6t1 | LoonTM | 7d24ffac-5b47-46c4-9023-1a8cc6a90075 | 23.309 | 25.000
 #1859 | 02/08/2025 |  Misty Blossom ft' Prizzly | fa7ee5a6-e70a-423b-89a9-01127753d779 | e4smwUrf2wfWYtdHqkF2hjAskL7 | ThijnHD | 94232bb9-9774-41f8-9016-3e653581ce9a | 43.412 | 47.000
 #1860 | 03/08/2025 | Polar Bear Proactivity ft' Prizzly | 5a5a547a-0919-4d09-9a45-2e9b1498aead | 6Y3XzVPpmONDvBaR9pD2vInlLYl | Egeau | 931e9842-5193-4f39-aab6-abc593b39fcf | 46.945 | 50.000
